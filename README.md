@@ -13,10 +13,6 @@ This project is a Rock-Paper-Scissors game implemented using OpenCV for image pr
 - Score tracking for both player and computer
 - Ability to start, pause, and quit the game using keyboard controls
 
-## Demo
-
-![Demo Image](path-to-your-demo-image-or-gif)
-
 ## Installation
 
 ### Prerequisites
