@@ -1,7 +1,3 @@
-Sure! Below is a description for your GitHub repository, along with instructions on how to set up and run your Rock-Paper-Scissors game using OpenCV and hand tracking.
-
----
-
 # Rock-Paper-Scissors Game using OpenCV and Hand Tracking
 
 This project is a Rock-Paper-Scissors game implemented using OpenCV for image processing and a custom hand tracking module (`HandTrackingModule.py`). The game uses a webcam feed to detect hand gestures and play against a computer opponent. The player can start, pause, and quit the game using specific key events.
@@ -105,6 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The hand tracking functionality is powered by MediaPipe.
 - Special thanks to OpenCV for providing an extensive library for image processing.
 
----
-
-Feel free to modify the description and instructions to better suit your repository and any additional details you'd like to include.
